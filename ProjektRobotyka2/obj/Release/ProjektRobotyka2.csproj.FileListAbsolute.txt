@@ -1,0 +1,6 @@
+C:\Users\miszu\source\repos\ProjektRobotyka2\ProjektRobotyka2\bin\Release\ProjektRobotyka2.exe.config
+C:\Users\miszu\source\repos\ProjektRobotyka2\ProjektRobotyka2\bin\Release\ProjektRobotyka2.exe
+C:\Users\miszu\source\repos\ProjektRobotyka2\ProjektRobotyka2\bin\Release\ProjektRobotyka2.pdb
+C:\Users\miszu\source\repos\ProjektRobotyka2\ProjektRobotyka2\obj\Release\ProjektRobotyka2.csprojAssemblyReference.cache
+C:\Users\miszu\source\repos\ProjektRobotyka2\ProjektRobotyka2\obj\Release\ProjektRobotyka2.exe
+C:\Users\miszu\source\repos\ProjektRobotyka2\ProjektRobotyka2\obj\Release\ProjektRobotyka2.pdb
